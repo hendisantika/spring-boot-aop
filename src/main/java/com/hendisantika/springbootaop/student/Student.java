@@ -1,4 +1,4 @@
-package com.hendisantika.springbootaop.domain;
+package com.hendisantika.springbootaop.student;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
